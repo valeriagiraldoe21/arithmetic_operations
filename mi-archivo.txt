@@ -1,0 +1,4 @@
+def add(num_1, num_2, num_3):
+    result = num_1 + num_2 + num_3
+    print(f'{num_1} + {num_2}  + {num_3} is equal to {result}')
+    return result
